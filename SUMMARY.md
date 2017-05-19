@@ -15,12 +15,12 @@
 
 ## [图形上下文]()
   * [在iOS图形上下文中绘制](Graphics Context/ios.md)
-  * [在macOS图形上下文中绘制](Graphics Context/macos.md)
-  * [PDF图形上下文](Graphics Context/pdf.md)
+  * [在macOS图形上下文中绘制（todo）](Graphics Context/macos.md)
+  * [PDF图形上下文（todo）](Graphics Context/pdf.md)
   * [位图图形上下文](Graphics Context/bitmap.md)
     * [支持的像素格式]
     * [反锯齿]
-  * [打印图形上下文](Graphics Context/printing.md)
+  * [打印图形上下文（todo）](Graphics Context/printing.md)
 
 ## [路径]()
 ## [颜色及颜色空间]()
