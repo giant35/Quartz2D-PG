@@ -7,7 +7,7 @@
 
 
 图1-2 Quartz 绘制目标
-![图1-2](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Art/draw_destinations.gif)
+![图1-2](../Art/draw_destinations.gif)
 
 
 

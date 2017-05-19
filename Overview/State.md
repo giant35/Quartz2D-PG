@@ -17,6 +17,7 @@ CGContextRestoreGState() 方法用于从堆栈中弹出一份图形状态替换�
 注意：图形状态不是当前绘画环境的所有东西，而是元素的状态。如：图形状态不包括当前路径，所以 CGContextSaveGState 时不会保存当前路径。图形状态会保存的参数如表1-1：
 
 表1-1 图形状态保存的参数
+
 |参数|参考章节|
 | :--- | :--- |
 |当前变换矩阵(Current transformation matrix (CTM)) | |

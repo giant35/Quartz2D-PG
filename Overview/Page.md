@@ -10,4 +10,4 @@ Quartz 2D 使用画家模型绘画。每个绘画操作应用到画布上的一�
 
 
 图1-1 画家模型
-![图1-1](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Art/painters_model.gif)
+![图1-1](../Art/painters_model.gif)

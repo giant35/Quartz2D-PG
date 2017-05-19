@@ -28,7 +28,7 @@ Quartz 绘制也使用缩放 负y轴 做些其它操作。如：如果使用  CG
 坐标系修改后结果也会变化，就像镜子一样。图1-5 同样的绘制操作不同的坐标系统结果不一样。
 
 图1-5 修改坐标系 创建镜像图片
-![图1-5](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Art/flipped_coordinates.jpg)
+![图1-5](../Art/flipped_coordinates.jpg)
 
 
 应用程序调整哪个绘制取决于你是否应用修正变换。

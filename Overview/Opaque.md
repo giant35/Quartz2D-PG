@@ -10,7 +10,7 @@
 * 渐变效果
 
 图1-3 Quartz 中不透明数据类型是绘图的基本元素
-![图1-3](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Art/drawing_primitives.gif)
+![图1-3](../Art/drawing_primitives.gif)
 
 
 Quartz 2D 中的不透明数据类型有：(TODO)
