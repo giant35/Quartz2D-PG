@@ -37,7 +37,7 @@ Quartz 2D API 易于使用且提供丰富的功能，如透明层、路径绘制
 
 ## 参考
 
-使用 Quartz 2D 的一些基础文档：
+使用 Quartz 2D 的一些参考文档：
 * [Core Graphics Framework Reference]()
 * [Color Management Overview]()
 * quartz-dev 邮件组
