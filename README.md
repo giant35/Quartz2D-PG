@@ -1,6 +1,6 @@
-# Quartz 2D 编程指南
+# 中文版说明
 
-Apple《Quartz 2D Programming Guide》中文版
+本书《Quartz 2D 编程指南》 是 Apple《Quartz 2D Programming Guide》中文版
 
 
 译者：老唐35 (giant35@gmail.com)
