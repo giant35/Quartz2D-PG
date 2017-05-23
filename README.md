@@ -2,6 +2,7 @@
 
 本书《Quartz 2D 编程指南》 是 Apple《Quartz 2D Programming Guide》中文版
 
+建议也参考下 apple 提供的样例代码 "[Quartz2D for iOS](https://developer.apple.com/library/content/samplecode/QuartzDemo/Introduction/Intro.html)"
 
 v20170519
 

@@ -22,7 +22,20 @@
     * [反锯齿]
   * [打印图形上下文（todo）](Graphics Context/printing.md)
 
-## [路径]()
+## [路径](Paths/paths.md)
+  * [路径创建与绘制](Paths/createAndPainting.md)
+  * [创建代码](Paths/building.md)
+    * [点](Paths/building/points.md)
+    * [线](Paths/building/lines.md)
+    * [弧线](Paths/building/arcs.md)
+    * [曲线](Paths/building/curves.md)
+    * [子线段](Paths/building/subpath.md)
+    * [椭圆](Paths/building/ellipses.md)
+    * [矩形](Paths/building/rectangles.md)
+  * [创建路径](Paths/create.md)
+  * [绘制路径](Paths/painting.md)
+  * [裁减路径](Paths/cliping.md)
+
 ## [颜色及颜色空间]()
 ## [变换]()
 ## [模版]()

@@ -107,7 +107,7 @@ CGRect myBoundingBox;// 1
 |Gray |8 bpp, 8 bpc,kCGImageAlphaNone|Mac OS X, iOS|
 |Gray|8 bpp, 8 bpc,kCGImageAlphaOnly|Mac OS X, iOS|
 |Gray|16 bpp, 16 bpc, kCGImageAlphaNone|Mac OS X|
-|Gray|32 bpp, 32 bpc, kCGImageAlphaNone|kCGBitmapFloatComponents|Mac OS X|
+|Gray|32 bpp, 32 bpc, kCGImageAlphaNone,kCGBitmapFloatComponents|Mac OS X|
 |RGB|16 bpp, 5 bpc, kCGImageAlphaNoneSkipFirst|Mac OS X, iOS|
 |RGB|32 bpp, 8 bpc, kCGImageAlphaNoneSkipFirst|Mac OS X, iOS|
 |RGB|32 bpp, 8 bpc, kCGImageAlphaNoneSkipLast|Mac OS X, iOS|
