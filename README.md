@@ -1,4 +1,4 @@
-# 中文版说明
+## 中文版说明
 
 本书《Quartz 2D 编程指南》 是 Apple《Quartz 2D Programming Guide》中文版
 
