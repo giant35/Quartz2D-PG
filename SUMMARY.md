@@ -1,9 +1,5 @@
-目录
-
 1. [中文版说明](README.md)
-
 1. [介绍](Introduction.md)
-
 1. [概览](Overview/Overview.md)
   1. [概览](Overview/Overview.md)
   1. [画布](Overview/Page.md)
@@ -12,7 +8,6 @@
   1. [状态](Overview/State.md)
   1. [坐标系](Overview/Coordinate.md)
   1. [内存管理](Overview/Memory.md)
-
 1. [图形上下文](Graphics Context/Overview.md)
   1. [在iOS图形上下文中绘制](Graphics Context/ios.md)
   1. [在macOS图形上下文中绘制（todo）](Graphics Context/macos.md)
@@ -21,7 +16,6 @@
     1. [支持的像素格式](Graphics Context/bitmap/pixelformat.md)
     1. [反锯齿](Graphics Context/bitmap/antialias.md)
   1. [打印图形上下文（todo）](Graphics Context/printing.md)
-
 1. [路径](Paths/paths.md)
   1. [路径创建与绘制](Paths/createAndPainting.md)
   1. [创建代码](Paths/building.md)
