@@ -18,8 +18,8 @@
   * [在macOS图形上下文中绘制（todo）](Graphics Context/macos.md)
   * [PDF图形上下文（todo）](Graphics Context/pdf.md)
   * [位图图形上下文](Graphics Context/bitmap.md)
-    * [支持的像素格式]
-    * [反锯齿]
+    * [支持的像素格式](Graphics Context/bitmap/pixelformat.md)
+    * [反锯齿](Graphics Context/bitmap/antialias.md)
   * [打印图形上下文（todo）](Graphics Context/printing.md)
 
 ## [路径](Paths/paths.md)

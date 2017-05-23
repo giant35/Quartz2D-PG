@@ -1,4 +1,4 @@
-## 获取打印图形上下文
+### 获取打印图形上下文
 macOS cocoa 应用程序 通过定制 NSView 子类实现打印。
 打印时会调用 view.print:方法。
 然后创建打印用的图形上下文然后调用 view.drawRect: 方法。
