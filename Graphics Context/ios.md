@@ -1,4 +1,4 @@
-### iOS 中绘图到图形上下文
+## iOS 中绘图到图形上下文
 
 iOS app 中绘图到屏幕上，你需要设置 UIView 对象并重载 drawRect: 方法进行绘制。
 当 view 可见或刷新时 view.drawRect: 方法会调用。
